@@ -3,6 +3,8 @@
 This is an older version of my **personal CV website**, built using **HTML, CSS, and JavaScript**.
 It showcases my background, skills, and hobbies with a simple interactive UI.
 
+Link: https://neelaykamat-cv.netlify.app/
+
 > ⚠️ This project is no longer actively maintained and has been replaced by a newer portfolio.
 
 ---
